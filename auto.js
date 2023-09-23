@@ -20,7 +20,7 @@
 (function() {
     'use strict';
     let opentime = 10000 //10s
-    let switchtime = 2000
+    let switchtime = 8000
     console.log('STARTING OPEN TIME: ' + opentime)
 
     function timeToMilliseconds(time) {
